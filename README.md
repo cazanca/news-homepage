@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/cazanca/tip-calculator-vue)
+- Solution URL:(https://github.com/cazanca/news-homepage)
 - Live Site URL: (https://tip-calculator-b2ei9kgp0-cazanca.vercel.app/)
 
 
