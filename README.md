@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/cazanca/news-homepage)
-- Live Site URL: (https://tip-calculator-b2ei9kgp0-cazanca.vercel.app/)
+- Live Site URL: (https://news-homepage-indol.vercel.app/)
 
 
 ### Built with
